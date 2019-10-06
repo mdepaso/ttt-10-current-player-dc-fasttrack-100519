@@ -1,15 +1,14 @@
 
 
-
-
-def turn_count
   #Needs to count occupied positions
   #Max of 9 turns
   #counter included
 
+def turn_count
+
 counter=0
-if my_condition_is_met_counter = counter+1
-end
+  if my_condition_is_met_counter = counter+1
+  end
 
 while counter <= board.length-1
   puts "It is turn #{board[counter]}!"
