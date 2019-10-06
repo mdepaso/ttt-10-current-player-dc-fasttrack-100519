@@ -4,7 +4,8 @@ counter = 0
 
 # If we see and X or an O in the array.
 
-my_condition_is_met = 
+my_condition_is_met.each
+
 
 if my_condition_is_met
   counter += 1
