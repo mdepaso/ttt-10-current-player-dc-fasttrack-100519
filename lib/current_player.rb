@@ -9,6 +9,7 @@ def turn_count
 
 counter=0
 if my_condition_is_met_counter = counter+1
+end
 
 while counter <= board.length-1
   puts "It is turn #{board[counter]}!"
