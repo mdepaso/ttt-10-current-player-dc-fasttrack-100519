@@ -16,8 +16,5 @@ def current_player(board)
   end
   
 end
-
-board=["X","O","X"]
-current_player(board)
   
   
