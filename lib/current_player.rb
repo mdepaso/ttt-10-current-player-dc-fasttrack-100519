@@ -3,8 +3,11 @@ def turn_count(board)
 counter = 0
 
 # If we see and X or an O in the array.
+
+my_condition_is_met = 
+
 if my_condition_is_met
-  counter = counter + 1
+  counter += 1
 end
 
 
