@@ -4,7 +4,6 @@ def turn_count(board)
     if space == X || O
       puts space
     end
-    puts space
   end
 end
 
