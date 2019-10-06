@@ -9,7 +9,7 @@ board.each do |count|
   # If == X or O add one. 
 
 while counter <= board.length-1
-  puts "It is turn #{board[counter]}!"
+  # puts "It is turn #{board[counter]}!"
   counter = counter + 1
   end
 
