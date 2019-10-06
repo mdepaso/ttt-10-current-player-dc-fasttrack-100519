@@ -5,7 +5,7 @@ counter = 0
 # If we see and X or an O in the array.
 
 board.each do |space|
-  if 
+  if space == X 
   
 
 if my_condition_is_met
