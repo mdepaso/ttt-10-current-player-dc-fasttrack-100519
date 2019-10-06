@@ -2,6 +2,7 @@ def turn_count(board)
   counter = 0
   board.each do |space|
     if space == X || O
+    end
     puts space
   end
 end
