@@ -2,6 +2,10 @@
 
 def turn_count
   #Needs to count occupied positions
+  #Max of 9 turns
+  
+  
+  
   
   
 
