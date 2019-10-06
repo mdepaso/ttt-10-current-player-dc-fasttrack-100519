@@ -7,8 +7,8 @@ def turn_count
   #Max of 9 turns
   #counter included
   
-while count <= brothers.length-1
-  puts "Stop hitting yourself #{brothers[count]}!"
+while count <= board.length-1
+  puts "Stop hitting yourself #{board[count]}!"
   count += 1
 end
   
