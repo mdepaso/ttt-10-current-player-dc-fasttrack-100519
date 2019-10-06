@@ -17,7 +17,7 @@ def current_player(board)
   
 end
 
-board=["X","O"]
+board=["X","O","X"]
 current_player(board)
   
   
