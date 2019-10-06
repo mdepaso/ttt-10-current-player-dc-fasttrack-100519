@@ -15,5 +15,5 @@ end
 #   
 # end
 
-board = ["M","X","O"," "," "," "," "," "," "]
-turn_count(board)
+# board = ["M","X","O"," "," "," "," "," "," "]
+# turn_count(board)
