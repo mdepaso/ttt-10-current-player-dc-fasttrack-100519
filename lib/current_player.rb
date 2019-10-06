@@ -11,6 +11,7 @@ end
 def current_player(board)
   
   if turn_count.odd
+    puts "X"
     return "X"
   end
   
