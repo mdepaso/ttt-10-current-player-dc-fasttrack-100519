@@ -1,13 +1,16 @@
 
 
-counter=0
+count=0
 
 def turn_count
   #Needs to count occupied positions
   #Max of 9 turns
   #counter included
   
-  
+while count <= brothers.length-1
+  puts "Stop hitting yourself #{brothers[count]}!"
+  count += 1
+end
   
   
   
