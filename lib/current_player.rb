@@ -1,21 +1,11 @@
 def turn_count
 
 counter=0
-  
-  # my_condition_is_met = there is only one space on board on the board occupied.
-  
-  if my_condition_is_met
-    counter = counter + 1
-  end
 
-# while counter <= board.length-1
-#   puts "It is turn #{board[counter]}!"
-end
-  
-  
-  
-  
-  
+while counter <= board.length-1
+  puts "It is turn #{board[counter]}!"
+  counter = counter + 1
+  end
 
 end
 
