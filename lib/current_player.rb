@@ -15,5 +15,5 @@ end
 #   counter += 1
 # end
 
-board = [" ","X","O"," "," "," "," "," "," "]
+board = ["M","X","O"," "," "," "," "," "," "]
 turn_count(board)
