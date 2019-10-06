@@ -8,7 +8,7 @@ def turn_count
 
 counter=0
   
-  # my_condition_is_met = there is only one space on board on the boarc occupied
+  # my_condition_is_met = there is only one space on board on the board occupied
   
   if my_condition_is_met
     counter = counter + 1
