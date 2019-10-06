@@ -11,10 +11,11 @@ end
 def current_player(board)
   
   if turn_count(board).odd?
-    puts "X"
+    # puts "X"
     return "X"
   end
   
 end
   
-  
+# board=["X","O","X"]
+# current_player(board) 
