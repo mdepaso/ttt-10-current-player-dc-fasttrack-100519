@@ -4,8 +4,9 @@ counter = 0
 
 # If we see and X or an O in the array.
 
-my_condition_is_met.each
-
+board.each do |space|
+  if 
+  
 
 if my_condition_is_met
   counter += 1
