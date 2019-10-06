@@ -3,6 +3,7 @@ def turn_count(board)
 counter=0
 
 #needs to count the number of X and Os on the board.
+# just return a number of turns. How many elements inside the array are an X or an O
 
 board.each do |count|
   # If == X or O add one. 
