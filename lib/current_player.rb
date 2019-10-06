@@ -10,7 +10,7 @@ end
 
 def current_player(board)
   
-  if turn_count&1==0 
+  if turn_count.odd
     puts "X"
   else
     puts "O"
