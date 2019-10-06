@@ -7,6 +7,7 @@ counter=0
 while counter <= board.length-1
   puts "It is turn #{board[counter]}!"
   counter = counter + 1
+  return
   end
 
 end
