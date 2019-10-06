@@ -8,7 +8,7 @@ def turn_count
   #counter included
   
 while count <= board.length-1
-  puts "Stop hitting yourself #{board[count]}!"
+  puts "It is turn #{board[count]}!"
   count += 1
 end
   
