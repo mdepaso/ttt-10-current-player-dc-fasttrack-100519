@@ -1,5 +1,29 @@
 def turn_count(board)
 
+counter = 0
+
+# If we see and X or an O in the array.
+if my_condition_is_met
+  counter = counter + 1
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def turn_count(board)
+
 counter=0
 
 #needs to count the number of X and Os on the board.
