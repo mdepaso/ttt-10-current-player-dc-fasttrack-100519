@@ -1,16 +1,17 @@
 def turn_count(board)
+  counter = 0
+  board.each do |space|
+    puts space
+  end
+end
 
-counter = 0
 
-# If we see and X or an O in the array.
-
-board.each do |space|
-  if space == X 
+#   if space == X || O
   
 
-if my_condition_is_met
-  counter += 1
-end
+# if my_condition_is_met
+#   counter += 1
+# end
 
 
 
