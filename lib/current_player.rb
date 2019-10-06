@@ -4,7 +4,8 @@ counter=0
 
 #needs to count the number of X and Os on the board.
 
-board.each do
+board.each do |count|
+  
 
 while counter <= board.length-1
   puts "It is turn #{board[counter]}!"
