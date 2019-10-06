@@ -7,14 +7,3 @@ def turn_count(board)
   end
   return counter
 end
-
-
-#   
-  
-
-# if my_condition_is_met
-#   
-# end
-
-# board = ["M","X","O"," "," "," "," "," "," "]
-# turn_count(board)
