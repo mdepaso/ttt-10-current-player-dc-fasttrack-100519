@@ -8,8 +8,8 @@ counter=0
     counter = counter + 1
   end
 
-while counter <= board.length-1
-  puts "It is turn #{board[counter]}!"
+# while counter <= board.length-1
+#   puts "It is turn #{board[counter]}!"
 end
   
   
