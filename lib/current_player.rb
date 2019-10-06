@@ -1,6 +1,9 @@
 
 
 def turn_count
+  #Needs to count occupied positions
+  
+  
 
 end
 
